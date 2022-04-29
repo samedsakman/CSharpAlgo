@@ -1,0 +1,15 @@
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/bin/Debug/net6.0/FirstFactorial
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/bin/Debug/net6.0/FirstFactorial.deps.json
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/bin/Debug/net6.0/FirstFactorial.runtimeconfig.json
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/bin/Debug/net6.0/FirstFactorial.dll
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/bin/Debug/net6.0/FirstFactorial.pdb
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/obj/Debug/net6.0/FirstFactorial.csproj.AssemblyReference.cache
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/obj/Debug/net6.0/FirstFactorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/obj/Debug/net6.0/FirstFactorial.AssemblyInfoInputs.cache
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/obj/Debug/net6.0/FirstFactorial.AssemblyInfo.cs
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/obj/Debug/net6.0/FirstFactorial.csproj.CoreCompileInputs.cache
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/obj/Debug/net6.0/FirstFactorial.dll
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/obj/Debug/net6.0/refint/FirstFactorial.dll
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/obj/Debug/net6.0/FirstFactorial.pdb
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/obj/Debug/net6.0/FirstFactorial.genruntimeconfig.cache
+/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/obj/Debug/net6.0/ref/FirstFactorial.dll

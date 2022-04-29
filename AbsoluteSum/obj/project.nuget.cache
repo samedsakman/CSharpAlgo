@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "53BnlPZ7iNzYi38+xAUeMy5Wlv9NS6thGRFKDQAjPSehJteOeoE576gADFf2sikD3KKUSL6pZB/ngpGsrmeFdA==",
+  "dgSpecHash": "rAwqC1ytr2zRONJA1boqZ1+rY3Eluwgl4kvrKyyjU0RfFl+qMoLu4qjbejTNRg4Uq33Xh81EkCsiS2X0FEUeEQ==",
   "success": true,
-  "projectFilePath": "/Users/samedsakman/Projects/CSharpAlgo/AbsoluteSum/AbsoluteSum.csproj",
+  "projectFilePath": "/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/AbsoluteSum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samedsakman/Projects/CSharpAlgo/AbsoluteSum/AbsoluteSum.csproj",
+      "projectUniqueName": "/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/AbsoluteSum.csproj",
       "projectName": "AbsoluteSum",
-      "projectPath": "/Users/samedsakman/Projects/CSharpAlgo/AbsoluteSum/AbsoluteSum.csproj",
+      "projectPath": "/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/AbsoluteSum.csproj",
       "packagesPath": "/Users/samedsakman/.nuget/packages/",
-      "outputPath": "/Users/samedsakman/Projects/CSharpAlgo/AbsoluteSum/obj/",
+      "outputPath": "/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samedsakman/.nuget/NuGet/NuGet.Config"

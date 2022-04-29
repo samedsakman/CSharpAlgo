@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samedsakman/Projects/CSharpAlgo/FirstFactorial/FirstFactorial.csproj",
+      "projectUniqueName": "/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/FirstFactorial.csproj",
       "projectName": "FirstFactorial",
-      "projectPath": "/Users/samedsakman/Projects/CSharpAlgo/FirstFactorial/FirstFactorial.csproj",
+      "projectPath": "/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/FirstFactorial.csproj",
       "packagesPath": "/Users/samedsakman/.nuget/packages/",
-      "outputPath": "/Users/samedsakman/Projects/CSharpAlgo/FirstFactorial/obj/",
+      "outputPath": "/Users/samedsakman/VsCode/CSharpAlgo/FirstFactorial/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samedsakman/.nuget/NuGet/NuGet.Config"

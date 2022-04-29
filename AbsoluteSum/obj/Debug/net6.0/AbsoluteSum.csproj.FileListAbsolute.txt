@@ -1,0 +1,15 @@
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/bin/Debug/net6.0/AbsoluteSum
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/bin/Debug/net6.0/AbsoluteSum.deps.json
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/bin/Debug/net6.0/AbsoluteSum.runtimeconfig.json
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/bin/Debug/net6.0/AbsoluteSum.dll
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/bin/Debug/net6.0/AbsoluteSum.pdb
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/obj/Debug/net6.0/AbsoluteSum.csproj.AssemblyReference.cache
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/obj/Debug/net6.0/AbsoluteSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/obj/Debug/net6.0/AbsoluteSum.AssemblyInfoInputs.cache
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/obj/Debug/net6.0/AbsoluteSum.AssemblyInfo.cs
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/obj/Debug/net6.0/AbsoluteSum.csproj.CoreCompileInputs.cache
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/obj/Debug/net6.0/AbsoluteSum.dll
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/obj/Debug/net6.0/refint/AbsoluteSum.dll
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/obj/Debug/net6.0/AbsoluteSum.pdb
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/obj/Debug/net6.0/AbsoluteSum.genruntimeconfig.cache
+/Users/samedsakman/VsCode/CSharpAlgo/AbsoluteSum/obj/Debug/net6.0/ref/AbsoluteSum.dll

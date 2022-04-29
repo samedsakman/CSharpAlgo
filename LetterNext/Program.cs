@@ -24,4 +24,6 @@
 
     return letter;
     
-Console.WriteLine(LetterNext(Console.ReadLine()));}
+}
+
+Console.WriteLine(LetterNext(Console.ReadLine()));

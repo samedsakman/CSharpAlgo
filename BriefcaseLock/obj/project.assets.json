@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samedsakman/VsCode/CSharpAlgo/ReverseTheCase/ReverseTheCase.csproj",
-      "projectName": "ReverseTheCase",
-      "projectPath": "/Users/samedsakman/VsCode/CSharpAlgo/ReverseTheCase/ReverseTheCase.csproj",
+      "projectUniqueName": "/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/BriefcaseLock.csproj",
+      "projectName": "BriefcaseLock",
+      "projectPath": "/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/BriefcaseLock.csproj",
       "packagesPath": "/Users/samedsakman/.nuget/packages/",
-      "outputPath": "/Users/samedsakman/VsCode/CSharpAlgo/ReverseTheCase/obj/",
+      "outputPath": "/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/samedsakman/.nuget/NuGet/NuGet.Config"

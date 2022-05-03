@@ -1,0 +1,15 @@
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/bin/Debug/net6.0/BriefcaseLock
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/bin/Debug/net6.0/BriefcaseLock.deps.json
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/bin/Debug/net6.0/BriefcaseLock.runtimeconfig.json
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/bin/Debug/net6.0/BriefcaseLock.dll
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/bin/Debug/net6.0/BriefcaseLock.pdb
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/obj/Debug/net6.0/BriefcaseLock.csproj.AssemblyReference.cache
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/obj/Debug/net6.0/BriefcaseLock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/obj/Debug/net6.0/BriefcaseLock.AssemblyInfoInputs.cache
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/obj/Debug/net6.0/BriefcaseLock.AssemblyInfo.cs
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/obj/Debug/net6.0/BriefcaseLock.csproj.CoreCompileInputs.cache
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/obj/Debug/net6.0/BriefcaseLock.dll
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/obj/Debug/net6.0/refint/BriefcaseLock.dll
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/obj/Debug/net6.0/BriefcaseLock.pdb
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/obj/Debug/net6.0/BriefcaseLock.genruntimeconfig.cache
+/Users/samedsakman/VsCode/CSharpAlgo/BriefcaseLock/obj/Debug/net6.0/ref/BriefcaseLock.dll

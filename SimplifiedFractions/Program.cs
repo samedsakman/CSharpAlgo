@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 
 // Create a function that returns the simplified version of a fraction.
 

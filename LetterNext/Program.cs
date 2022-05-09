@@ -1,6 +1,9 @@
-﻿static string LetterNext(string str)
+﻿// Replace only letters of the characters in the input text with the next letter in the alphabet. If there are vowels, capitalize them.
+
+static string LetterNext(string str)
 {
     string letter = "";
+    
     for (int i = 0; i < str.Length; i++)
     {
         if (str[i] >= 97 && str[i] < 122)

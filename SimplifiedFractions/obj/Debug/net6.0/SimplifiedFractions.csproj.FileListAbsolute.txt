@@ -1,0 +1,15 @@
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/bin/Debug/net6.0/SimplifiedFractions
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/bin/Debug/net6.0/SimplifiedFractions.deps.json
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/bin/Debug/net6.0/SimplifiedFractions.runtimeconfig.json
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/bin/Debug/net6.0/SimplifiedFractions.dll
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/bin/Debug/net6.0/SimplifiedFractions.pdb
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/obj/Debug/net6.0/SimplifiedFractions.csproj.AssemblyReference.cache
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/obj/Debug/net6.0/SimplifiedFractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/obj/Debug/net6.0/SimplifiedFractions.AssemblyInfoInputs.cache
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/obj/Debug/net6.0/SimplifiedFractions.AssemblyInfo.cs
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/obj/Debug/net6.0/SimplifiedFractions.csproj.CoreCompileInputs.cache
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/obj/Debug/net6.0/SimplifiedFractions.dll
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/obj/Debug/net6.0/refint/SimplifiedFractions.dll
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/obj/Debug/net6.0/SimplifiedFractions.pdb
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/obj/Debug/net6.0/SimplifiedFractions.genruntimeconfig.cache
+/Users/samedsakman/Projects/CSharpAlgo/SimplifiedFractions/obj/Debug/net6.0/ref/SimplifiedFractions.dll

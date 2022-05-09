@@ -1,0 +1,15 @@
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/bin/Debug/net6.0/IndexOfCaps
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/bin/Debug/net6.0/IndexOfCaps.deps.json
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/bin/Debug/net6.0/IndexOfCaps.runtimeconfig.json
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/bin/Debug/net6.0/IndexOfCaps.dll
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/bin/Debug/net6.0/IndexOfCaps.pdb
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/obj/Debug/net6.0/IndexOfCaps.csproj.AssemblyReference.cache
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/obj/Debug/net6.0/IndexOfCaps.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/obj/Debug/net6.0/IndexOfCaps.AssemblyInfoInputs.cache
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/obj/Debug/net6.0/IndexOfCaps.AssemblyInfo.cs
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/obj/Debug/net6.0/IndexOfCaps.csproj.CoreCompileInputs.cache
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/obj/Debug/net6.0/IndexOfCaps.dll
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/obj/Debug/net6.0/refint/IndexOfCaps.dll
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/obj/Debug/net6.0/IndexOfCaps.pdb
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/obj/Debug/net6.0/IndexOfCaps.genruntimeconfig.cache
+/Users/samedsakman/Projects/CSharpAlgo/IndexOfCaps/obj/Debug/net6.0/ref/IndexOfCaps.dll

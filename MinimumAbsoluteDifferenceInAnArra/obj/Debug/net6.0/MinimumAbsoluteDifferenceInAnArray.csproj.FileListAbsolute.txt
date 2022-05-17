@@ -1,0 +1,15 @@
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\bin\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.exe
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\bin\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.deps.json
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\bin\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.runtimeconfig.json
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\bin\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.dll
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\bin\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.pdb
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\obj\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.csproj.AssemblyReference.cache
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\obj\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\obj\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.AssemblyInfoInputs.cache
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\obj\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.AssemblyInfo.cs
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\obj\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.csproj.CoreCompileInputs.cache
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\obj\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.dll
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\obj\Debug\net6.0\refint\MinimumAbsoluteDifferenceInAnArray.dll
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\obj\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.pdb
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\obj\Debug\net6.0\MinimumAbsoluteDifferenceInAnArray.genruntimeconfig.cache
+C:\Users\samed\source\repos\CSharp Algos\MinimumAbsoluteDifferenceInAnArray\obj\Debug\net6.0\ref\MinimumAbsoluteDifferenceInAnArray.dll

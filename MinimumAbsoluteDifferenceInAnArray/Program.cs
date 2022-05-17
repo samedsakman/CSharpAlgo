@@ -28,8 +28,6 @@
             }
 
             Console.WriteLine("Minimim absolute value is " + MinAbs(arr).ToString());
-            Console.WriteLine("Maximim absolute value is " + MaxAbs();)
-
 
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WSxOGu3HvEAPUzvCAozbG1oxb5sgqW7Mj/4dKeSJeKbQ5enRMXtn3b3SvycWSC8+ZHsYXBc8kSC2tRMsd/BSlA==",
+  "dgSpecHash": "8+3R0H4xazOhUkMaZ7hAvbjV0hqVA0T5wI0ydT52WnmjMK/WTeZ1UhW5dAezPfgjaRoLZSFsWYu6G8rzZJ02Sw==",
   "success": true,
-  "projectFilePath": "/Users/samedsakman/Projects/CSharpAlgo/BriefcaseLock/BriefcaseLock.csproj",
+  "projectFilePath": "C:\\Users\\samed\\source\\repos\\CSharpAlgo\\BriefcaseLock\\BriefcaseLock.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

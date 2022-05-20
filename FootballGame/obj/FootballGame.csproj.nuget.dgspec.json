@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samed\\source\\repos\\CSharpAlgo\\FootballGame\\FootballGame.csproj": {}
+    "C:\\Users\\samed\\source\\repos\\CSharp Algos\\FootballGame\\FootballGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samed\\source\\repos\\CSharpAlgo\\FootballGame\\FootballGame.csproj": {
+    "C:\\Users\\samed\\source\\repos\\CSharp Algos\\FootballGame\\FootballGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samed\\source\\repos\\CSharpAlgo\\FootballGame\\FootballGame.csproj",
+        "projectUniqueName": "C:\\Users\\samed\\source\\repos\\CSharp Algos\\FootballGame\\FootballGame.csproj",
         "projectName": "FootballGame",
-        "projectPath": "C:\\Users\\samed\\source\\repos\\CSharpAlgo\\FootballGame\\FootballGame.csproj",
+        "projectPath": "C:\\Users\\samed\\source\\repos\\CSharp Algos\\FootballGame\\FootballGame.csproj",
         "packagesPath": "C:\\Users\\samed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samed\\source\\repos\\CSharpAlgo\\FootballGame\\obj\\",
+        "outputPath": "C:\\Users\\samed\\source\\repos\\CSharp Algos\\FootballGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samed\\AppData\\Roaming\\NuGet\\NuGet.Config",

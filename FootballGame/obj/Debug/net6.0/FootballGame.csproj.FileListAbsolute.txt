@@ -1,15 +1,15 @@
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\obj\Debug\net6.0\FootballGame.csproj.AssemblyReference.cache
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\obj\Debug\net6.0\FootballGame.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\obj\Debug\net6.0\FootballGame.AssemblyInfoInputs.cache
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\obj\Debug\net6.0\FootballGame.AssemblyInfo.cs
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\obj\Debug\net6.0\FootballGame.csproj.CoreCompileInputs.cache
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\bin\Debug\net6.0\FootballGame.exe
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\bin\Debug\net6.0\FootballGame.deps.json
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\bin\Debug\net6.0\FootballGame.runtimeconfig.json
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\bin\Debug\net6.0\FootballGame.dll
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\bin\Debug\net6.0\FootballGame.pdb
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\obj\Debug\net6.0\FootballGame.dll
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\obj\Debug\net6.0\refint\FootballGame.dll
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\obj\Debug\net6.0\FootballGame.pdb
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\obj\Debug\net6.0\FootballGame.genruntimeconfig.cache
-C:\Users\samed\source\repos\CSharpAlgo\FootballGame\obj\Debug\net6.0\ref\FootballGame.dll
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\bin\Debug\net6.0\FootballGame.exe
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\bin\Debug\net6.0\FootballGame.deps.json
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\bin\Debug\net6.0\FootballGame.runtimeconfig.json
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\bin\Debug\net6.0\FootballGame.dll
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\bin\Debug\net6.0\FootballGame.pdb
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\obj\Debug\net6.0\FootballGame.csproj.AssemblyReference.cache
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\obj\Debug\net6.0\FootballGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\obj\Debug\net6.0\FootballGame.AssemblyInfoInputs.cache
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\obj\Debug\net6.0\FootballGame.AssemblyInfo.cs
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\obj\Debug\net6.0\FootballGame.csproj.CoreCompileInputs.cache
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\obj\Debug\net6.0\FootballGame.dll
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\obj\Debug\net6.0\refint\FootballGame.dll
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\obj\Debug\net6.0\FootballGame.pdb
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\obj\Debug\net6.0\FootballGame.genruntimeconfig.cache
+C:\Users\samed\source\repos\CSharp Algos\FootballGame\obj\Debug\net6.0\ref\FootballGame.dll

@@ -30,9 +30,10 @@
 - Finishing, Dribbling, OffTheBall, Acceleration özellikleri eklenecektir.
 - Bu sınıfın Constructor Metodu, sınıfa ait özelliklere 50 ila 80 arasında rastgele değerler üretilerek oluşturulacaktır.
 - Bu sınıfta double değer döndüren FinishingPlay() isimli bir metot yer alacaktır. Bu metot, sınıfa ait özelliklerin %30 ila %60 arasında değişen rastgele katsayılarla çarpımı ile base sınıfa ait GeneralScore() metodunun toplamını dönderecektir. (Örneğin: Finishing * 0.5 + ........ + GeneralScore();)
-- Bu sınıfta double değer döndüren PassingPlay() isimli bir metot yer alacaktır. Bu metot, sınıfa ait özelliklerin %20 ila %30 arasında değişen rastgele katsayılarla çarpımı ile base sınıfa ait GeneralScore() metodunun toplamını dönderecektir. (Örneğin: Technique * 0.3 + ........ + GeneralScore();)
+- Bu sınıfta double değer döndüren PassingPlay() isimli bir metot yer alacaktır. Bu metot, base sınıfa ait ShortPass, Decisions ve Teamwork özelliklerinin %20 ila %30 arasında değişen rastgele katsayılarla çarpımı ile base sınıfa ait GeneralScore() metodunun toplamını dönderecektir. (Örneğin: ShortPass * 0.4 + ........ + GeneralScore();)
 - Bu sınıfta double değer döndüren TacklingPlay() isimli bir metot yer alacaktır. Bu metot, base sınıfa ait Tackling, Stamina ve Natural Fitness özelliklerinin %10 ila %20 arasında değişen rastgele katsayılarla çarpımı ile base sınıfa ait GeneralScore() metodunun toplamını dönderecektir. (Örneğin: Tackling * 0.4 + ........ + GeneralScore();)
 
+NOT: FullName ve ShirtNumber dışında Hiçbir property'e dışarıdan değer atanamayacaktır.
 
 OYUN KURALLARI
 - Her iki Kullanıcıdan da yerleşim taktiği ve takım ismi girilmesi istenecektir. (4-4-2, 4-3-3, 3-4-3, 3-5-2 veya 3-6-1 taktiklerine izin verilecektir.)

@@ -1,31 +1,38 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace FootballGame
 {
     public class Midfielder : FootballPlayer
     {
         public Midfielder(string fullName, int shirtNumber) : base(fullName, shirtNumber)
         {
-            Random rand = new Random();
-            ShortPass = rand.Next(60, 100);
-            FirstTouch = rand.Next(60, 100);
-            Dribbling = rand.Next(60, 100);
-            Technique = rand.Next(60, 100);
+            LongPass = rand.Next(50, 80);
+            FirstTouch = rand.Next(50, 80);
+            Positioning = rand.Next(50, 80);
+            Technique = rand.Next(50, 80);
+        }
+
+        public double TacklingPlay()
+        {
+            double tacklingPlay = Tackling * rand.Next(20, 30) / 100 + Stamina * rand.Next(20, 30) / 100 + NaturalFitness * rand.Next(20, 30) / 100 + GeneralScore();
+            return tacklingPlay;
         }
 
         public double PassingPlay()
         {
-            double passingPlay = GeneralScore() + ShortPass * 0.5 + FirstTouch * 0.5 + Dribbling * 0.3 + Technique * 0.3;
+            double passingPlay = LongPass * rand.Next(30, 60) / 100 + FirstTouch * rand.Next(30, 60) / 100 + Positioning * rand.Next(30, 60) / 100 + Technique * rand.Next(30, 60) / 100 + GeneralScore();
             return passingPlay;
         }
-        public int ShortPass { get; set; }
-        public int FirstTouch { get; set; }
-        public int Dribbling { get; set; }
-        public int Technique { get; set; }
+
+        public double FinishingPlay()
+        {
+            double finishingPlay = Shooting * rand.Next(10, 20) / 100 + Pace * rand.Next(10, 20) / 100 + Teamwork * rand.Next(10, 20) / 100 + GeneralScore();
+            return finishingPlay;
+        }
+
+        public int LongPass { get; private set; }
+        public int FirstTouch { get; private set; }
+        public int Positioning { get; private set; }
+        public int Technique { get; private set; }
 
     }
 }

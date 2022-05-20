@@ -1,9 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace FootballGame
 {
     public class Attacker : FootballPlayer
@@ -11,20 +6,32 @@ namespace FootballGame
         public Attacker(string fullName, int shirtNumber) : base(fullName, shirtNumber)
         {
             Finishing = rand.Next(50, 100);
-            FirstTouch = rand.Next(50, 100);
-            Heading = rand.Next(50, 100);
-            LongShots = rand.Next(50, 100);
+            Dribbling = rand.Next(50, 100);
+            OffTheBall = rand.Next(50, 100);
+            Acceleration = rand.Next(50, 100);
         }
-        
-        public double ShootingPlay()
+
+        public double TacklingPlay()
         {
-            double shootingPlay = GeneralScore() + Finishing * 0.5 + FirstTouch * 0.5 + Heading * 0.3 + LongShots * 0.3;
-            return shootingPlay;
+            double tacklingPlay = Tackling * rand.Next(10, 20) / 100 + Stamina * rand.Next(10, 20) / 100 + NaturalFitness * rand.Next(10, 20) / 100 + GeneralScore();
+            return tacklingPlay;
         }
-        public int Finishing { get; set; }
-        public int FirstTouch { get; set; }
-        public int Heading { get; set; }
-        public int LongShots { get; set; }
+
+        public double PassingPlay()
+        {
+            double passingPlay = ShortPass * rand.Next(20, 30) / 100 + Decisions * rand.Next(20, 30) / 100 + Teamwork * rand.Next(20, 30) / 100 + GeneralScore();
+            return passingPlay;
+        }
+
+        public double FinishingPlay()
+        {
+            double finishingPlay = Finishing * rand.Next(30, 60) / 100 + Dribbling * rand.Next(30, 60) / 100 + OffTheBall * rand.Next(30, 60) / 100 + Acceleration * rand.Next(30, 60) / 100 + GeneralScore();
+            return finishingPlay;
+        }
+        public int Finishing { get; private set; }
+        public int Dribbling { get; private set; }
+        public int OffTheBall { get; private set; }
+        public int Acceleration { get; private set; }
 
 
     }

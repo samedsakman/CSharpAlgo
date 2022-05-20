@@ -1,14 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace FootballGame
 {
     public class FootballPlayer
     {
-        public Random rand = new Random();
+        protected Random rand = new Random();
 
         public FootballPlayer(string fullName, int shirtNumber)
         {
@@ -20,17 +15,17 @@ namespace FootballGame
             Pace = rand.Next(50, 90);
             Stamina = rand.Next(50, 90);
             NaturalFitness = rand.Next(50, 90);
-            
+
             FullName = fullName;
             if (shirtNumber > 0 && shirtNumber < 100)
                 ShirtNumber = shirtNumber;
             else
                 Console.WriteLine("Shirt number must be between 1 and 99");
         }
-        
-        public double GeneralScore()
+
+        protected double GeneralScore()
         {
-            double generalScore = ShortPass * (rand.Next(1, 4)) / 10 + Tackling * (rand.Next(1, 4)) / 10 + Shooting * (rand.Next(1, 4)) / 10 + Decisions * (rand.Next(1, 4)) / 10 + Teamwork * (rand.Next(1, 4)) / 10 + Pace * (rand.Next(1, 4)) / 10 + Stamina * (rand.Next(1, 4)) / 10 + NaturalFitness * rand.Next(1, 4) / 10;
+            double generalScore = ShortPass * (rand.Next(10, 40)) / 100 + Tackling * (rand.Next(10, 40)) / 100 + Shooting * (rand.Next(10, 40)) / 100 + Decisions * (rand.Next(10, 40)) / 100 + Teamwork * (rand.Next(10, 40)) / 100 + Pace * (rand.Next(10, 40)) / 100 + Stamina * (rand.Next(10, 40)) / 100 + NaturalFitness * rand.Next(10, 40) / 100;
             return generalScore;
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samed\\source\\repos\\CSharpAlgos\\CSharpAlgos\\CSharpAlgos.csproj": {}
+    "C:\\Users\\samed\\source\\repos\\CSharpAlgo\\CSharpAlgos\\CSharpAlgos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samed\\source\\repos\\CSharpAlgos\\CSharpAlgos\\CSharpAlgos.csproj": {
+    "C:\\Users\\samed\\source\\repos\\CSharpAlgo\\CSharpAlgos\\CSharpAlgos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samed\\source\\repos\\CSharpAlgos\\CSharpAlgos\\CSharpAlgos.csproj",
+        "projectUniqueName": "C:\\Users\\samed\\source\\repos\\CSharpAlgo\\CSharpAlgos\\CSharpAlgos.csproj",
         "projectName": "CSharpAlgos",
-        "projectPath": "C:\\Users\\samed\\source\\repos\\CSharpAlgos\\CSharpAlgos\\CSharpAlgos.csproj",
+        "projectPath": "C:\\Users\\samed\\source\\repos\\CSharpAlgo\\CSharpAlgos\\CSharpAlgos.csproj",
         "packagesPath": "C:\\Users\\samed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samed\\source\\repos\\CSharpAlgos\\CSharpAlgos\\obj\\",
+        "outputPath": "C:\\Users\\samed\\source\\repos\\CSharpAlgo\\CSharpAlgos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samed\\AppData\\Roaming\\NuGet\\NuGet.Config",

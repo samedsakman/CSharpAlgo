@@ -8,18 +8,27 @@ namespace FootballGame.Teams
 {
     internal class Team
     {
-        Random rand = new Random();
-
         Manager _managerReputation;
+        List<string> _teamName;
+        int _tacticId;
+        int _teamReputationMultiplier;
 
+        public List<string> TeamName
+        {
+            get { return _teamName; }
+            set 
+            {   _teamName.Add("Man City");
+                _teamName.Add("Man Utd");
+                _teamName.Add("Liverpool");
+                _teamName.Add("Chelsea");
+            }
+        }
         public Team (int teamId)
         {
-
+            _teamName[teamId]
         }
         
-        public string TeamName { get; set; }
-        public int TacticId { get; set; }
-        public int TeamReputationMultiplier { get; set; }
+        
         public Manager ManagerReputationMultiplier 
         { 
             get

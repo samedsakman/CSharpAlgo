@@ -1,0 +1,8 @@
+﻿Write a method that accepts two integer parameters rows and cols. 
+The output is a 2d array of numbers displayed in column-major order, 
+meaning the numbers shown increase sequentially down each column and 
+wrap to the top of the next column to the right once the bottom of the 
+current column is reached.
+
+Notes
+The return type of the function must be a 2 dimensional array of integers - int[,]

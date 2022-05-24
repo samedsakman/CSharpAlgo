@@ -1,0 +1,5 @@
+C:\Users\samed\source\repos\CSharpAlgo\ClassTest\obj\Debug\net6.0\ClassTest.csproj.AssemblyReference.cache
+C:\Users\samed\source\repos\CSharpAlgo\ClassTest\obj\Debug\net6.0\ClassTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\source\repos\CSharpAlgo\ClassTest\obj\Debug\net6.0\ClassTest.AssemblyInfoInputs.cache
+C:\Users\samed\source\repos\CSharpAlgo\ClassTest\obj\Debug\net6.0\ClassTest.AssemblyInfo.cs
+C:\Users\samed\source\repos\CSharpAlgo\ClassTest\obj\Debug\net6.0\ClassTest.csproj.CoreCompileInputs.cache

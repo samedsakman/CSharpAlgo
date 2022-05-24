@@ -1,0 +1,15 @@
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\bin\Debug\net6.0\PrintGrid.exe
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\bin\Debug\net6.0\PrintGrid.deps.json
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\bin\Debug\net6.0\PrintGrid.runtimeconfig.json
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\bin\Debug\net6.0\PrintGrid.dll
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\bin\Debug\net6.0\PrintGrid.pdb
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\obj\Debug\net6.0\PrintGrid.csproj.AssemblyReference.cache
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\obj\Debug\net6.0\PrintGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\obj\Debug\net6.0\PrintGrid.AssemblyInfoInputs.cache
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\obj\Debug\net6.0\PrintGrid.AssemblyInfo.cs
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\obj\Debug\net6.0\PrintGrid.csproj.CoreCompileInputs.cache
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\obj\Debug\net6.0\PrintGrid.dll
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\obj\Debug\net6.0\refint\PrintGrid.dll
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\obj\Debug\net6.0\PrintGrid.pdb
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\obj\Debug\net6.0\PrintGrid.genruntimeconfig.cache
+C:\Users\samed\source\repos\CSharpAlgos\PrintGrid\obj\Debug\net6.0\ref\PrintGrid.dll
